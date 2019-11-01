@@ -65,16 +65,16 @@ img{
 
 
 .icon-menu{
-	display:block;
-	width:40px;
-	height:40px;
-	font-size:30px;
-	background:#FBA919;
-	text-align:center;
-	line-height: 45px;
-	border-radius: 5px;
-	margin-left:auto;
-	cursor:pointer;
+display:block;
+width:40px;
+height:40px;
+font-size:30px;
+background:#FBA919;
+text-align:center;
+line-height: 45px;
+border-radius: 5px;
+margin-left:auto;
+cursor:pointer;
 
 }
 
@@ -132,8 +132,6 @@ img{
 }
 
 .banner_titulo{
-	margin-bottom: 50%;
-	margin-top: 50%;
     font-size: 25px;
     color: #FBA919;
 }
@@ -223,6 +221,7 @@ img{
 
 	.banner_titulo{
 		font-size:30px;
+        margin:5px 0;
         color:#FBA919;
 	}
 
@@ -244,11 +243,6 @@ img{
 
 	.projetos_colunas {
 		width: 32%;
-	}
-
-	.banner_titulo{
-		margin-bottom: 50%;
-		margin-top: 50%;
 	}
 
 
@@ -282,6 +276,8 @@ img{
 
 }
 
+
+
 @media(min-width:768px){
 
 	.banner_titulo{
@@ -298,8 +294,8 @@ img{
 
     .respostas{
         font-size: 17px;
+    }
 	}
-}
 
 @media(min-width:1024px){
 
@@ -381,6 +377,8 @@ img{
 
 }
 
+
+
 @media(min-width:1280px){
 	.conteudo{
 		width:1200px;
@@ -395,10 +393,6 @@ img{
 	.banner .conteudo{
 		top:40%;
 
-	}
-	.banner_titulo{
-		margin-bottom: 50%;
-		margin-top: 50%;
 	}
 
 }
