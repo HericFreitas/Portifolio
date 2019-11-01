@@ -246,6 +246,11 @@ img{
 		width: 32%;
 	}
 
+	.banner_titulo{
+		margin-bottom: 50%;
+		margin-top: 50%;
+	}
+
 
   .projetos_titulo{
   	font-size:25px;
@@ -274,6 +279,10 @@ img{
   	margin:0 10px;
 
   }
+  .banner_titulo{
+	margin-bottom: 50%;
+	margin-top: 50%;
+}
 
 }
 
@@ -295,8 +304,12 @@ img{
 
     .respostas{
         font-size: 17px;
-    }
 	}
+	.banner_titulo{
+		margin-bottom: 50%;
+		margin-top: 50%;
+	}
+}
 
 @media(min-width:1024px){
 
@@ -375,6 +388,10 @@ img{
 	.projetos_txt{
 		font-size:20px;
 	}
+	.banner_titulo{
+		margin-bottom: 50%;
+		margin-top: 50%;
+	}
 
 }
 
@@ -394,6 +411,10 @@ img{
 	.banner .conteudo{
 		top:40%;
 
+	}
+	.banner_titulo{
+		margin-bottom: 50%;
+		margin-top: 50%;
 	}
 
 }
