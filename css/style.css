@@ -133,9 +133,7 @@ cursor:pointer;
 
 .banner_titulo{
     font-size: 25px;
-	color: #FBA919;
-	margin-top: 50%;
-	margin-bottom: 50%;
+    color: #FBA919;
 }
 
 .banner_txt{
@@ -223,15 +221,16 @@ cursor:pointer;
 
 	.banner_titulo{
 		font-size:30px;
-		margin-top: auto;
+        margin:5px 0;
         color:#FBA919;
 	}
 
 	.banner_txt{
 		display:block;
 		font-size:16px;
-        margin-top: -250px;
+        margin:7px 0;
         color:#FBA919;
+
 	}
 
 
