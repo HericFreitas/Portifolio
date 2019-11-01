@@ -221,16 +221,14 @@ cursor:pointer;
 
 	.banner_titulo{
 		font-size:30px;
-        margin-top: -6%;
         color:#FBA919;
 	}
 
 	.banner_txt{
 		display:block;
 		font-size:16px;
-        margin:7px 0;
+        margin-bottom: 4%;
         color:#FBA919;
-
 	}
 
 
