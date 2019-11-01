@@ -279,11 +279,10 @@ cursor:pointer;
 
 
 
-@media(min-width:720px){
+@media(min-width:768px){
 
 	.banner_titulo{
-		font-size:50px;
-		margin-top: -25%;
+        font-size:50px;
     }
 
 	.projetos_titulo{
@@ -348,7 +347,7 @@ cursor:pointer;
 
 	.banner_titulo{
         font-size:60px;
-		margin-top: -25%;
+
 	}
 
 	.banner_txt{
