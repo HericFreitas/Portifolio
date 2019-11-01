@@ -377,6 +377,12 @@ img{
 		font-size:20px;
 	}
 
+	.header .conteudo{
+		display:flex;
+		justify-content: space-between;
+		margin-top: 0px;
+	}
+
 }
 
 
