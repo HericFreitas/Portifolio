@@ -279,14 +279,8 @@ img{
   	margin:0 10px;
 
   }
-  .banner_titulo{
-	margin-bottom: 50%;
-	margin-top: 50%;
-}
 
 }
-
-
 
 @media(min-width:768px){
 
@@ -304,10 +298,6 @@ img{
 
     .respostas{
         font-size: 17px;
-	}
-	.banner_titulo{
-		margin-bottom: 50%;
-		margin-top: 50%;
 	}
 }
 
@@ -388,14 +378,8 @@ img{
 	.projetos_txt{
 		font-size:20px;
 	}
-	.banner_titulo{
-		margin-bottom: 50%;
-		margin-top: 50%;
-	}
 
 }
-
-
 
 @media(min-width:1280px){
 	.conteudo{
