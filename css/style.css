@@ -234,6 +234,9 @@ cursor:pointer;
 
 	}
 
+	.header{
+		bottom: 92%;
+	}
 
 	.projetos{
 		display:flex;
@@ -297,9 +300,7 @@ cursor:pointer;
         font-size: 17px;
 	}
 	
-	.header{
-		bottom: 92%;
-	}
+	
 	}
 
 @media(min-width:1024px){
