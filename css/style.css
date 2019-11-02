@@ -37,7 +37,7 @@ img{
 .header{
     height:70px;
     width: 100%;
-    bottom: 80%;
+    bottom: 87%;
     left: 0%;
 	position: fixed;
 	background: black;
@@ -298,7 +298,7 @@ cursor:pointer;
 	}
 	
 	.header{
-		bottom: 90%;
+		bottom: 92%;
 	}
 	}
 
