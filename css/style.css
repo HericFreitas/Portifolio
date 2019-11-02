@@ -35,6 +35,7 @@ img{
 
 
 .header{
+	margin-top: 60px;
     height:70px;
     width: 100%;
     bottom: 91%;
@@ -80,8 +81,7 @@ cursor:pointer;
 
 
 .nav{
-	position:absolute;
-	margin-top: auto;
+	position:absolute;/
 	top: 70px;
 	left:-100%;
 	width: 100%;
