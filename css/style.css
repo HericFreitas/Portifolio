@@ -167,14 +167,14 @@ img {
 }
 
 .respostas {
-    font-size: 17px;
+    font-size: 140%;
     text-align: justify;
-    padding: 2%;
+    padding: 5%;
 }
 
 .section_titulo {
     text-align: center;
-    font-size: 35px;
+    font-size: 290%;
     color: #FBA919;
 }
 
