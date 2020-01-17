@@ -124,13 +124,13 @@ img {
 }
 
 .banner_titulo {
-    font-size: 25px;
-    margin-top: -25%;
+    font-size: 375%;
+    margin-top: -15%;
     color: #FBA919;
 }
 
 .banner_txt {
-    display: none;
+    font-size: 275%;
     color: #FBA919;
 }
 
